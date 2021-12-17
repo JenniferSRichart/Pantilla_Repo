@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Jennifer Sanchez-Richart Pages
+
+### Data Science
+
 
 You can use the [editor on GitHub](https://github.com/JenniferSRichart/Pantilla_Repo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
