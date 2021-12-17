@@ -1,15 +1,28 @@
 ## Welcome to Jennifer Sanchez-Richart Pages
 
-### Data Science
+## Data Science
+
+### ABOUT 
+
+ergwhrwth
+<br>
+![JenniferSRichart](https://media-exp1.licdn.com/dms/image/C5603AQEpZDVVr9UlFg/profile-displayphoto-shrink_400_400/0/1632593961337?e=1645056000&v=beta&t=8Q3LAlig2lkV8jfW5qw_rvOxXGfFmk2oVh7TdCDvvm8)
 
 
-You can use the [editor on GitHub](https://github.com/JenniferSRichart/Pantilla_Repo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<img src="https://media-exp1.licdn.com/dms/image/C5603AQEpZDVVr9UlFg/profile-displayphoto-shrink_400_400/0/1632593961337?e=1645056000&v=beta&t=8Q3LAlig2lkV8jfW5qw_rvOxXGfFmk2oVh7TdCDvvm8" alt="drawing" width="150"/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### CONTACT
+mail: dhgdfhgs
+<br>
+123-r3454354
+
+### PROYECTS
+
+#### [EDA Huida de Empleado](https://github.com/JenniferSRichart/EDA_HUIDA_EMPLEADOS.git)
+
+
 
 ```markdown
 Syntax highlighted code block
